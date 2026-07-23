@@ -21,8 +21,8 @@
 
 | Project | What it is |
 | --- | --- |
-| [rfq-extractor](https://github.com/Rick-cmy/rfq-extractor) | LLM-powered RFQ→table extraction for industrial valve procurement — messy PDF packages to editable quotes in ~60s (anonymized demo) |
-| [gtsna-trade-terminal](https://github.com/Rick-cmy/gtsna-trade-terminal) | Strategic trade-analysis terminal (MVP) — multi-turn advisory Q&A over a DuckDB trade store + embeddings + web search |
+| [procurement-doc-parser](https://github.com/Rick-cmy/procurement-doc-parser) | Messy procurement PDF packages → structured, editable quote tables in ~60s — LLM extraction with review UI and CSV/Excel export |
+| [ai-trade-advisor](https://github.com/Rick-cmy/ai-trade-advisor) | Multi-turn strategic Q&A terminal over a global-trade DuckDB store — embeddings + live web search (MVP) |
 | [global-trade-data-pipelines](https://github.com/Rick-cmy/global-trade-data-pipelines) | Multi-source global-trade-risk data pipelines — collect, clean, analyse (code-only) |
 | [food-delivery-scheduler](https://github.com/Rick-cmy/food-delivery-scheduler) | FastAPI backend modeling the full delivery lifecycle with explicit state machines |
 
