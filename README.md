@@ -17,4 +17,13 @@
 | [llama-lora-finetune](https://github.com/Rick-cmy/llama-lora-finetune) | LoRA fine-tuning of Llama-3.2-1B (Unsloth) with a deployed Gradio UI on Hugging Face Spaces |
 | [taiwan-stock-dashboard](https://github.com/Rick-cmy/taiwan-stock-dashboard) | Taiwan stock analytics dashboard — 5 technical indicators + strategy backtesting · B.S. capstone |
 
-Freelance client work — RFQ extraction for industrial procurement, a persona-grounded RAG writing assistant for legal academia, and a trade-policy analytics terminal — lives in private repos. **Code available on request.**
+### Client & product work
+
+| Project | What it is |
+| --- | --- |
+| [rfq-extractor](https://github.com/Rick-cmy/rfq-extractor) | LLM-powered RFQ→table extraction for industrial valve procurement — messy PDF packages to editable quotes in ~60s (anonymized demo) |
+| [gtsna-trade-terminal](https://github.com/Rick-cmy/gtsna-trade-terminal) | Strategic trade-analysis terminal (MVP) — multi-turn advisory Q&A over a DuckDB trade store + embeddings + web search |
+| [global-trade-data-pipelines](https://github.com/Rick-cmy/global-trade-data-pipelines) | Multi-source global-trade-risk data pipelines — collect, clean, analyse (code-only) |
+| [food-delivery-scheduler](https://github.com/Rick-cmy/food-delivery-scheduler) | FastAPI backend modeling the full delivery lifecycle with explicit state machines |
+
+More client work — including a persona-grounded RAG writing assistant for legal academia — remains private. **Code available on request.**
