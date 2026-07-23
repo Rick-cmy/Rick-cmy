@@ -6,7 +6,7 @@
 - 📄 Thesis: multi-agent coordination vs terminology-grounded RAG for Swedish→English financial translation QA
 - 🔧 RAG (FAISS · BGE-M3 · DuckDB + VSS) · LLM apps (Claude · DeepSeek) · Python · PyTorch · Streamlit · FastAPI
 - 🌍 中文 · English · Svenska
-- 🟢 **Available for freelance projects** → cmy20001013@gmail.com
+- 🟢 **Available for freelance projects** → 15869122537@163.com
 
 ### Selected work
 
